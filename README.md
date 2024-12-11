@@ -16,7 +16,7 @@ This repository contains the code and resources for the project "Apple Disease D
 Apple diseases pose a significant threat to apple production, leading to substantial crop losses. Traditional methods of disease detection are time-consuming and labor-intensive. This project aims to automate the process using machine learning and computer vision techniques. By training a model on a dataset of apple leaf images exhibiting various disease symptoms, we can accurately identify and classify different apple diseases.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/pranavsr10/Apple-Disease-Detection.git`
+1. Clone the repository: `git clone https://github.com/Spidester/Apple-disease-Detection.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
